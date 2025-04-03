@@ -9,20 +9,20 @@
             <mxPoint x="414" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOkoB8wHdi_db0bxG_ap-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOkoB8wHdi_db0bxG_ap-2" target="TOkoB8wHdi_db0bxG_ap-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-2" value="输入年份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TOkoB8wHdi_db0bxG_ap-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="280" width="140" height="60" as="geometry" />
+        <mxCell id="TOkoB8wHdi_db0bxG_ap-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TOkoB8wHdi_db0bxG_ap-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TOkoB8wHdi_db0bxG_ap-5" target="TOkoB8wHdi_db0bxG_ap-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TOkoB8wHdi_db0bxG_ap-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="270" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
