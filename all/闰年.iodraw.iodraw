@@ -37,7 +37,7 @@
           <mxGeometry x="474" y="390" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-17" value="year % 100 == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="400" width="136" height="80" as="geometry" />
+          <mxGeometry x="590" y="544" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
