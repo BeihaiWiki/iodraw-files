@@ -75,12 +75,6 @@
             <mxPoint x="490" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOkoB8wHdi_db0bxG_ap-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" target="TOkoB8wHdi_db0bxG_ap-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="422" y="690" as="sourcePoint" />
-            <mxPoint x="490" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-40" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="405" y="308" width="30" height="30" as="geometry" />
         </mxCell>
@@ -94,7 +88,7 @@
           <mxGeometry x="570" y="420" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-44" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="425" y="558" width="30" height="30" as="geometry" />
+          <mxGeometry x="420" y="490" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-45" value="f" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="715" y="548" width="30" height="30" as="geometry" />
