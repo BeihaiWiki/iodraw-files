@@ -61,21 +61,6 @@
             <mxPoint x="490" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-25" value="f" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="245" y="458" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-26" value="f" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="85" y="428" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-27" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-28" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="425" y="558" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-29" value="f" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="715" y="548" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="elO-KqEXgt2o3ny7dJbn-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="elO-KqEXgt2o3ny7dJbn-65" target="elO-KqEXgt2o3ny7dJbn-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
