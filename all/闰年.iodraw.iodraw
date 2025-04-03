@@ -33,20 +33,11 @@
         <mxCell id="TOkoB8wHdi_db0bxG_ap-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TOkoB8wHdi_db0bxG_ap-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOkoB8wHdi_db0bxG_ap-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="681" y="430" />
-              <mxPoint x="681" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-14" value="year % 100 == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="390" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TOkoB8wHdi_db0bxG_ap-17" value="year % 100 == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="505" width="136" height="80" as="geometry" />
+          <mxGeometry x="610" y="530" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
