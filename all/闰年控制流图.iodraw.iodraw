@@ -22,7 +22,7 @@
             <mxPoint x="250" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="elO-KqEXgt2o3ny7dJbn-72">
+        <mxCell id="elO-KqEXgt2o3ny7dJbn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="elO-KqEXgt2o3ny7dJbn-72" target="elO-KqEXgt2o3ny7dJbn-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="520" as="sourcePoint" />
             <mxPoint x="420" y="609.9999999999998" as="targetPoint" />
@@ -69,12 +69,6 @@
         </mxCell>
         <mxCell id="elO-KqEXgt2o3ny7dJbn-76" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="elO-KqEXgt2o3ny7dJbn-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="689.9999999999998" as="sourcePoint" />
-            <mxPoint x="420" y="879.9999999999998" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="elO-KqEXgt2o3ny7dJbn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="elO-KqEXgt2o3ny7dJbn-78" target="elO-KqEXgt2o3ny7dJbn-84">
           <mxGeometry relative="1" as="geometry">
