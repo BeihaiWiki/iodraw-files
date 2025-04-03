@@ -15,7 +15,7 @@
             <mxPoint x="362" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="elO-KqEXgt2o3ny7dJbn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" target="elO-KqEXgt2o3ny7dJbn-10">
+        <mxCell id="elO-KqEXgt2o3ny7dJbn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="elO-KqEXgt2o3ny7dJbn-67" target="elO-KqEXgt2o3ny7dJbn-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="226" y="300" as="sourcePoint" />
           </mxGeometry>
