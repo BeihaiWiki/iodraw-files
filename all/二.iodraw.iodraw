@@ -49,11 +49,14 @@
         <mxCell id="CUEl6qzRVRC2uIVQ1hP0-31" value="s = x + y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CUEl6qzRVRC2uIVQ1hP0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CUEl6qzRVRC2uIVQ1hP0-32" target="CUEl6qzRVRC2uIVQ1hP0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CUEl6qzRVRC2uIVQ1hP0-32" value="s &amp;gt; 1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="346" y="490" width="136" height="80" as="geometry" />
+          <mxGeometry x="412" y="520" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUEl6qzRVRC2uIVQ1hP0-35" value="s &amp;gt; 1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="234" y="585" width="136" height="80" as="geometry" />
+          <mxGeometry x="260" y="620" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
