@@ -28,6 +28,27 @@
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-7" value="A1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-8" value="A2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-9" value="E&lt;div style=&quot;font-size: 15px;&quot;&gt;互斥&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="108" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.992;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="tNGQzdSdtj8wBjT3Sv0j-9" target="tNGQzdSdtj8wBjT3Sv0j-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.96;exitY=0.635;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="tNGQzdSdtj8wBjT3Sv0j-9" target="tNGQzdSdtj8wBjT3Sv0j-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
