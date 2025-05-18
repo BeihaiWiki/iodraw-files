@@ -291,6 +291,9 @@
         <mxCell id="fRlnguDoCK8Gi7_jnY9j-2" value="A1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1070" y="650" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fRlnguDoCK8Gi7_jnY9j-3" value="A1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
