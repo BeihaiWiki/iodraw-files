@@ -282,8 +282,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-88" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;R&lt;/div&gt;要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="385" y="133" width="50" height="40" as="geometry" />
+        <mxCell id="tNGQzdSdtj8wBjT3Sv0j-88" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;R&lt;/div&gt;要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="385" y="128" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
